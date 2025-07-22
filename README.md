@@ -32,4 +32,3 @@ O STM32G0B1CET6N é um microcontrolador baseado no núcleo RISC de 32 bits Arm®
 * **Gerenciamento de Energia:**
     * Faixa de tensão de alimentação: 1.7 V a 3.6 V.
     * Modos de baixo consumo: Sleep, Stop, Standby e Shutdown.
-    * Alimentação VBAT para o RTC e registros de backup.
