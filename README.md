@@ -1,0 +1,1 @@
+# Resumo-Datasheet-STM32G0B1CET6N
