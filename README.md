@@ -1,10 +1,6 @@
-### **Datasheet: STM32G0B1CET6N**
+## **Datasheet: STM32G0B1CET6N**
 
-#### **Descrição**
-
-O STM32G0B1CET6N é um microcontrolador baseado no núcleo RISC de 32 bits Arm® Cortex®-M0+ de alto desempenho, operando em frequências de até 64 MHz.
-
-#### **Arquitetura e Características Técnicas**
+#### **Características Técnicas**
 
 * **Núcleo:** Arm® 32-bit Cortex®-M0+ CPU com frequência de até 64 MHz.
 
