@@ -2,7 +2,7 @@
 
 #### **Descrição**
 
-O STM32G0B1 é um microcontrolador da linha principal (*mainstream*) baseado no núcleo RISC de 32 bits Arm® Cortex®-M0+ de alto desempenho, operando em frequências de até 64 MHz.
+O STM32G0B1CET6N é um microcontrolador baseado no núcleo RISC de 32 bits Arm® Cortex®-M0+ de alto desempenho, operando em frequências de até 64 MHz.
 
 #### **Arquitetura e Características Técnicas**
 
